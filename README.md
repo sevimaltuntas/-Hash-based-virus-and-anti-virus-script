@@ -1,4 +1,4 @@
-# -Hash-based-virus-and-anti-virus-script
+# Hash-based-virus-and-anti-virus-script
 
 Hash-based virus and anti-virus script
 
